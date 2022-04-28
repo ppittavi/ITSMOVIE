@@ -1,0 +1,22 @@
+[
+  {
+    "MovieID": 8,
+    "MovieTitle": "Eyes Wide Shut",
+    "MovieGenre": "Thriller"
+  },
+    {
+    "MovieID": 9,
+    "MovieTitle": "Look Who's Talking",
+    "MovieGenre": "Comedy"
+  },
+    {
+    "MovieID": 11,
+    "MovieTitle": "The Power of the Dog",
+    "MovieGenre": "Drama"
+  },
+      {
+    "MovieID": 256,
+    "MovieTitle": "Eyes Wide Shut",
+    "MovieGenre": "Comedy"
+  }
+]
